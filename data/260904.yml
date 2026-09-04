@@ -7,7 +7,7 @@ about:
   head: 180a65b
   archived: false
   latestVersion: v1.7.5
-  collectedAt: 2026-09-04T19:24:46Z
+  collectedAt: 2026-09-04T21:12:22Z
 timeline:
   created: 2015-12-12
   lastCommit: 2026-09-02
@@ -86,5 +86,48 @@ total:
   openIssue: 29
   commit: 6203
 ---
+path: /home/runner/.x-repo/github.com/goplus/xgo
+collectedAt: 2026-09-04T21:12:24Z
+loc:
+  Go:
+    code: 55651
+    comments: 11167
+    blanks: 8124
+    files: 375
+  Makefile:
+    code: 44
+    comments: 0
+    blanks: 17
+    files: 1
+  Dockerfile:
+    code: 23
+    comments: 0
+    blanks: 7
+    files: 1
+  Bash:
+    code: 4
+    comments: 32
+    blanks: 6
+    files: 2
+  JavaScript:
+    code: 4
+    comments: 0
+    blanks: 1
+    files: 1
+  Batch:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 5471
+    blanks: 3463
+    files: 31
+total:
+  code: 59527
+  comments: 17122
+  blanks: 12179
+  files: 413
 ---
 
